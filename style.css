@@ -37,7 +37,7 @@ body {
 .sidebar {
     width: 20%;
     background-color: #ffffff;
-    padding: 200px 100px 200px 300px; /* Added right padding */
+    padding: 100px 100px 100px 300px; /* Added right padding */
     overflow-y: auto;
     font-family: 'Mukta', Arial, sans-serif;
 }
