@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;700&family=Noto+Sans+Thai:wght@400;700&family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css">
+    <script src="https://kit.fontawesome.com/116b313ea8.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="navbar">
+        <a href="#projects"><i class="fa-solid fa-folder-open"></i> Projects</a>
+        <a href="https://github.com/ssyuw"><i class="fa-brands fa-github"></i> Github Repo</a>
+        <a href="resume.pdf" target="_blank"><i class="fa-regular fa-file"></i> Resume</a>
+        <a href="https://www.linkedin.com/in/stephanie-wang-2594b9259/"><i class="fa-brands fa-linkedin"></i> Linkedin</a>
+    </div>
+    <div class="content">
+        <div class="sidebar">
+            <img src="profile.jpg" alt="Profile Picture">
+            <h2>Stephanie Wang</h2>
+            <p>Undergraduate at UCSD, majoring in Data Science, minoring Mathamatics.</p>
+            <br>
+            <p><i class="fa-regular fa-envelope"></i> Email: 
+                missyuwang@outlook.com
+                yuw168@ucsd.edu</p>
+        </div>
+        <div class="main">
+            <div id="about" class="section">
+                <h2><i class="fa-solid fa-address-card"></i> About Me</h2>
+                <p>My name is Stephanie Wang, and I am majoring in Data Science.</p>
+            </div>
+            <div id="education" class="section">
+                <h2><i class="fa-solid fa-book"></i> Education</h2>
+                <p><strong>University of California, San Diego</strong><br>
+                <em>September 2022 - Present</em><br>
+                Bachelor of Science in Data Science | Minor in Mathematics</p>
+                <p><strong>Coursework:</strong></p>
+                <ul>
+                    <li>Data Structure & Algorithm</li>
+                    <li>Probability & Statistics</li>
+                    <li>Linear Algebra</li>
+                    <li>Vector Calculus</li>
+                    <li>Mathematical Reasoning</li>
+                    <li>Probabilistic Modeling and Machine Learning</li>
+                    <li>Representation Learning</li>
+                    <li>Search Algorithms</li>
+                    <li>Data Visualization</li>
+                </ul>
+            </div>
+            <div id="skills" class="section">
+                <h2><i class="fa-solid fa-list"></i> Skills</h2>
+                <p><strong>Programming:</strong></p>
+                <ul>
+                    <li>Python (pandas, numpy, scikit-learn, matplotlib)</li>
+                    <li>JAVA</li>
+                    <li>JavaScript</li>
+                </ul>
+                <p><strong>Technical:</strong></p>
+                <ul>
+                    <li>Machine Learning Models (Linear Regression, Classification, Logistic Regression, Random Forest, KNN)</li>
+                    <li>Exploratory Data Analysis</li>
+                    <li>Feature Engineering</li>
+                    <li>Web Scraping</li>
+                    <li>Data Visualization (jQuery, D3)</li>
+                </ul>
+                <p><strong>Languages:</strong></p>
+                <ul>
+                    <li>English</li>
+                    <li>Chinese (native)</li>
+                </ul>
+            </div>
+            <div id="projects" class="section">
+                <h2><i class="fa-solid fa-folder-open"></i> Projects</h2>
+                <h3>RAG Model</h3>
+                <p>Developed a knowledge-based question answering system using RAG technology and large model APIs, integrating knowledge from subject slides and notes. Utilized OCR to recognize notes, slides, and course materials, building a local vector database. Conducted relevance searches using cosine similarity to find related materials, serving as text embeddings for the RAG. Created a subject-based knowledge graph using Python's networkx, integrating structured knowledge from a knowledge base into the generation process, serving as knowledge embeddings for the RAG.</p>
+                
+                <h3>Power Outage Risk Analysis Modeling</h3>
+                <p>Constructed a predictive model using gradient boosting trees, capable of identifying with high accuracy whether a power outage was caused by natural disasters. Independently completed EDA and feature engineering, encoded time series data, and extracted useful information for modeling from a series of geographic and temporal information. Performed hyperparameter tuning on the gradient boosting model by analyzing recall, precision, and F1 score under different parameters.</p>
+                
+                <h3>Interactive Population Data Visualization</h3>
+                <p>Using D3 and JavaScript to read and visualize data, adding interactive elements on the client side for data visualization. Beautified the webpage using CSS and implemented webpage interactions by utilizing HTML components and binding the corresponding JavaScript code.</p>
+                
+                <h3>Visualization of the Mean Shift Algorithm</h3>
+                <p>Using the Mean Shift algorithm for image segmentation. Extracted useful information and parameters from images and identified the semantic information present in the images. Employed clustering algorithms for feature preprocessing. Visualized the impact of Mean Shift parameters on clustering outcomes using D3 and JavaScript.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
