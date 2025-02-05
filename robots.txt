@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ssyuw.github.io/sitemap/sitemap-index.xml
+Host: https://ssyuw.github.io
