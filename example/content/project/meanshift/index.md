@@ -8,7 +8,7 @@ authors:
   - name: "Bingyan Liu"
     # url: "https://zhiting.ucsd.edu/" 
 path: "project/meanshift"
-excerpt: Using the Mean Shift algorithm for image segmentation. Extract useful information and parameters from images and identify the semantic information present in the images."
+excerpt: "Using the Mean Shift algorithm for image segmentation. Extract useful information and parameters from images and identify the semantic information present in the images."
 selected: true
 # cover: "./preview.png"
 links:
