@@ -10,7 +10,7 @@ authors:
   - name: "Stephanie Wang"
   - name: "Zhenghao Gong"
   - name: "Bingyan Liu"
-    # url: "https://zhiting.ucsd.edu/" 
+    url: "https://bytina923.github.io/"
 path: "research/webagents"
 excerpt: "Optimize large model agents for efficient web-based tasks by enhancing web element processing with computer vision (OpenCV) and HTML filtering while implementing an adaptive prompting strategy to balance inference cost and response efficiency."
 selected: true

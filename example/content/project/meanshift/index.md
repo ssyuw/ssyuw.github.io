@@ -6,7 +6,7 @@ authors:
   - name: "Stephanie Wang"
   - name: "Zhenghao Gong"
   - name: "Bingyan Liu"
-    # url: "https://zhiting.ucsd.edu/" 
+    url: "https://bytina923.github.io/"
 path: "project/meanshift"
 excerpt: "Using the Mean Shift algorithm for image segmentation. Extract useful information and parameters from images and identify the semantic information present in the images."
 selected: true

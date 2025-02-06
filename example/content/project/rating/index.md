@@ -7,11 +7,11 @@ authors:
   - name: "Stephanie Wang"
   - name: "Zhenghao Gong"
   - name: "Bingyan Liu"
-    # url: "https://zhiting.ucsd.edu/" 
+    url: "https://bytina923.github.io/" 
 path: "project/rating"
 excerpt: "Developed a machine learning model for Amazon product rating prediction by processing and analyzing 490k+ records, leveraging NLP techniques like TF-IDF, Word2Vec, and Doc2Vec, and optimizing a logistic regression model with L1/L2 regularization to enhance predictive accuracy. Conducted error analysis, feature selection, and visualization to derive actionable insights for data-driven recommendations." 
 selected: true
-# cover: "./preview.png"
+cover: "./preview.png"
 links:
   - name: "GitHub (in progress)"
     # url: "https://github.com/huskydoge/AI4701-ComputerVision-3D-Recon"
