@@ -1,19 +1,19 @@
 ---
-title: "Interactive Population Data Visualization"
+title: "Predicting YouTube Video Trends"
 tags:
-  - "Visualization"
+  - "Predict"
 authors:
   - name: "Stephanie Wang"
   - name: "Zhenghao Gong"
   - name: "Bingyan Liu"
     url: "https://bytina923.github.io/"
-path: "project/population"
-excerpt: "Using D3 and JavaScript to read and visualize population data, adding interactive elements on the client side for data visualization."
+path: "project/youtube"
+excerpt: 
 selected: true
 # cover: "./preview.png"
 links:
   - name: "GitHub (in progress)"
     # url: "https://ssyuw.github.io/Power_Outage_Analyze"
-  - name: "Web page (in progress)"
+  - name: "Report (in progress)"
 priority: 2
 ---

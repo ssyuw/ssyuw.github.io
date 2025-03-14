@@ -99,13 +99,26 @@ module.exports = {
   ],
   experience: [
     {
-      title: 'Chuling Information Technology Co., Ltd.',
+      title: 'Undergraduate Research Assistant',
       position: 'left',
       data: [
         {
+          date: 'Feb. 2025 - Persent',
+          title: 'Halıcıo˘glu Data Science Institute, UC San Diego',
+          location: 'San Diego, CA',
+          description: 'Conducted data collection, preprocessing, and exploratory analysis. Performed statistical analysis to uncover key insights. Supported machine learning model development by engineering features, optimizing hyperparameters, and testing different model architectures to improve predictive accuracy.',
+        }
+      ]
+    },
+    {
+      title: 'Data Scientist Intern',
+      position: 'right',
+      data: [
+        {
           date: 'Jul. 2024 – Sept. 2024',
-          title: 'Data Scientist Intern',
-          description: 'Analyzed and cleaned internal sales data to improve data quality and insights. Developed predictive models using GBDT and time series analysis to forecast customer behavior. Built interactive dashboards with Python to visualize key business metrics and support data-driven decisions.',
+          title: 'Chuling Information Technology Co., Ltd.',
+          //location: 'ZheJiang, China',
+          description: 'Analyzed and cleaned sales data to ensure data consistency and reliability. Developed Gradient Boosted Decision Trees and time series models for customer behavior forecasting, optimizing accuracy through feature engineering and hyperparameter tuning. Built dashboards to visualize trends and automate reporting for data-driven sales strategies.',
         },
       ],
     },
@@ -141,19 +154,19 @@ module.exports = {
   awards: [
     {
       date: "2024",
-      title: "National Scholarship (Top 0.2% nationwide)",
+      title: "4",
     },
     {
       date: "2023",
-      title: "Rui Yuan Hong Shan Scholarship (Top 2%, SJTU)",
+      title: "3",
     },
     {
       date: "2022",
-      title: "Shao Qiu Scholarship (Top 4%, SJTU)",
+      title: "2",
     },
     {
       date: "2022",
-      title: "Meritorious Winner of MCM/ICM",
+      title: "1",
     },
   ],
   tagColors: [

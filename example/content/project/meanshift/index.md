@@ -14,5 +14,6 @@ selected: true
 links:
   - name: "GitHub (in progress)"
     # url: "https://github.com/huskydoge/AI4701-ComputerVision-3D-Recon"
+  - name: "Web page (in progress)"
 priority: 3
 ---

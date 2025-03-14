@@ -5,7 +5,6 @@ tags:
   - "LLMs"
   - "Computer Vision"
 
-# venue: a very very very very long long long long long long venue
 authors:
   - name: "Stephanie Wang"
   - name: "Zhenghao Gong"
@@ -17,7 +16,7 @@ selected: true
 # cover: "./preview.png"
 links:
   - name: "Code (in progress)"
-    # url: "https://github.com/maitrix-org/Pandora"
+    # url: "https://github.com/georgong/web_agent"
   - name: "Report"
     url: "/190_Final_Report.pdf"
 priority: 0
